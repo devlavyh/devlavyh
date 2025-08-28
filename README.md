@@ -59,7 +59,7 @@
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      contact me:
     </b>
   </samp>
   <br>
